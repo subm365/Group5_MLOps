@@ -1,6 +1,6 @@
 # Group5_MLOps
 Group Members:
-<b>Pankaj Sutar 2017006 <\b>
+Pankaj Sutar 2017006 <\n>
 Shubham Kumar 2017025
 Krishna Khandelwal 2017032
 Abhishek Kumar 2017036
